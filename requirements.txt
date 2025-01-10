@@ -6,7 +6,6 @@ pymongo
 telebot
 python-telegram-bot
 telebot
-json
 requests
 logging
 time
