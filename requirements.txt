@@ -5,10 +5,6 @@ aiogram
 pymongo
 telebot
 python-telegram-bot
-telebot
-requests
-logging
-time
 certifi
 random
 asyncio
